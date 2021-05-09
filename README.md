@@ -3,13 +3,13 @@
 #### Welcome! Enjoy my repositories... and feel free to contact me if you're hiring or looking for someone to collaborate with or find a team to join in to create, learn, and meet fellow developrs!
 
 #### Don't forget to follow me on here, and check my out my social media profiles:
-[<code><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></code>](https://www.linkedin.com/jonchristie)
-[<code><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></code>](https://twitter.com/jonpchristie)
-[<code><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></code>](https://www.youtube.com/channel/UC5GFnN-lv8Yuqc9O3b79k6g)
-[<code><img src="https://img.icons8.com/color/48/000000/facebook.png"/></code>](https://www.facebook.com/jonpchristie)
-[<code><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></code>](https://www.instagram.com/fullstack11235)
-[<code><img src="https://img.icons8.com/color/48/000000/soundcloud.png"/></code>](https://soundcloud.com/jonchristie#/)
-[<code><img src="https://img.icons8.com/color/48/000000/spotify--v1.png"/></code>](https://open.spotify.com/artist/07S7aLfxH70VAX64g1WuFw?si=tlOj1OMBRLm-y4sY8Lox3Q)
+              [<code><img width="72px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></code>](https://www.linkedin.com/jonchristie)       
+[<code><img width="72px" src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></code>](https://twitter.com/jonpchristie)       
+[<code><img width="72px" src="https://img.icons8.com/color/48/000000/youtube-play.png"/></code>](https://www.youtube.com/channel/UC5GFnN-lv8Yuqc9O3b79k6g)       
+[<code><img width="72px" src="https://img.icons8.com/color/48/000000/facebook.png"/></code>](https://www.facebook.com/jonpchristie)       
+[<code><img width="72px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></code>](https://www.instagram.com/fullstack11235)       
+[<code><img width="72px" src="https://img.icons8.com/color/48/000000/soundcloud.png"/></code>](https://soundcloud.com/jonchristie#/)       
+[<code><img width="72px" src="https://img.icons8.com/color/48/000000/spotify--v1.png"/></code>](https://open.spotify.com/artist/07S7aLfxH70VAX64g1WuFw?si=tlOj1OMBRLm-y4sY8Lox3Q)
 
 ### Languages, Frameworks, and Libraries
 [<code>
@@ -67,13 +67,13 @@
 <img src="https://img.icons8.com/fluent/48/000000/adobe-illustrator.png"/>
 </code>](https://www.adobe.com/creativecloud.html)
 [<code>
-<img alt="markdown" width="48px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
+<img src="https://img.icons8.com/ios/50/ffffff/markdown--v2.png"/>
 </code>](https://www.markdownguide.org/)
 [<code>
 <img alt="Git" width="48px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
 [<code>
-<img alt="github" width="48px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
+<img src="https://img.icons8.com/ios/50/ffffff/github.png"/>
 </code>](https://github.com/)
 [<code><img src="https://img.icons8.com/color/48/000000/heroku.png"/>
 </code>](www.heroku.com)
