@@ -87,7 +87,7 @@
 <img width="48px" src="https://img.icons8.com/windows/32/ffffff/amazon-web-services.png"/>
 </code>](aws.com)
 [<code>
-<img alt="apple" width="48px" src="https://img.icons8.com/officel/16/000000/mac-os.png"/>
+<img src="https://img.icons8.com/color/48/000000/mac-os.png"/>
 </code>](https://www.apple.com/)
 [<code>
 <img alt="ubuntu" width="48px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
