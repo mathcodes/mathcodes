@@ -1,7 +1,15 @@
-COMING SOON....
-# Jon Christie's Github 
+# Jon Christie
 
-## Languages, Frameworks, and Libraries
+#### Welcome! Enjoy my repositories... and feel free to contact me if you're hiring or looking for someone to collaborate with or find a team to join in to create, learn, and meet fellow developrs!
+
+#### Don't forget to follow me on here, and check my out my social media profiles:
+[<code><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></code>](https://www.linkedin.com/jonchristie)
+[<code><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></code>](https://twitter.com/jonpchristie)
+[<code><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></code>](https://www.youtube.com/channel/UC5GFnN-lv8Yuqc9O3b79k6g)
+[<code><img src="https://img.icons8.com/color/48/000000/facebook.png"/></code>](https://www.facebook.com/jonpchristie)
+[<code><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></code>](https://www.instagram.com/fullstack11235)
+
+### Languages, Frameworks, and Libraries
 [<code>
 <img alt="visual studio code" width="48px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
@@ -86,19 +94,13 @@ COMING SOON....
 </code>](www.mongodb.com)
 
 
-## Stats:
+### Stats:
 <a href="https://github.com/mathcodes">
 <img align="center" alt="Jon's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mathcodes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
-## Languages:
+### Languages:
 <a href="https://github.com/mathcodes">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mathcodes&layout=compact&theme=radical" />
 </a>
 
----
-
-
-[twitter]: https://twitter.com/TheSabesan
-[facebook]: https://www.facebook.com/sathananthan.sabesan
-[instagram]: https://www.instagram.com/s_sabesan
-[linkedin]: https://www.linkedin.com/in/sabesan96
+ 
