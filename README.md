@@ -1,6 +1,6 @@
 # Jon Christie
 
-#### Welcome! Enjoy my repositories... and feel free to contact me if you're hiring or looking for someone to collaborate with or find a team to join in to create, learn, and meet fellow developrs!
+#### Welcome! Enjoy my repositories... and feel free to contact me if you're hiring, looking for someone to collaborate with, or looking for a team to create, learn, and meet fellow developers!
 
 #### Don't forget to follow me on here, and check my out my social media profiles:
 [<code><img width="72px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></code>](https://www.linkedin.com/jonchristie)       
