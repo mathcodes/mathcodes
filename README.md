@@ -96,9 +96,9 @@
 </code>](www.mongodb.com)
 
 
-### Stats:
+<!-- ### Stats:
 <a href="https://github.com/mathcodes">
-<img align="center" alt="Jon's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mathcodes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img align="center" alt="Jon's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mathcodes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a> -->
 
 ### Languages:
 <a href="https://github.com/mathcodes">
