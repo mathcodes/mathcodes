@@ -105,5 +105,3 @@
 <a href="https://github.com/mathcodes">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mathcodes&layout=compact&theme=radical" />
 </a>
-
- 
