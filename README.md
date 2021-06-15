@@ -3,29 +3,16 @@
 ### Welcome to my github profile! I have vast amount of repos covering full stack web development along with some recent additions of AI, automation, and data analysis using Python. So enjoy! I am currently looking for work so be sure to check out my [portfolio](https://mathcodes.github.io/JonChristie2021/) if you know of any positions in web development. I would greatly appreciate that. Either way, feel free to contact me if you're hiring, looking for someone to collaborate with, or looking for a team to create, learn, and meet fellow developers!
 
 ## Projects
-### Here are some of my favorite projects I'm proud of:
+### Here are some of my favorite projects:
 
-
-| <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/portfolio_pic.png" alt="portfolio image" width="160px" height="120px"/>| <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/superPantryBuddy.png" alt="portfolio image" width="160px" height="120px"/>| <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/python100.png" alt="portfolio image" width="160px" height="120px"/>| <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/Pick2Hand.jpg" alt="portfolio image" width="160px" height="120px"/>| <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/SCB.png" alt="portfolio image" width="160px" height="120px"/>|
-|:-:|:-:|:-:|:-:|:-:|
-| Portfolio 	| Super Pantry Buddy 	| A Python Guide 	| Pick2Hand 	| Client's Site 	|
-
-
-<img src="./src/assets/img/projects/portfolio_pic.png" alt="portfolio image" height="3rem"/>
-   
- ![Alt]("./src/assets/img/projects/portfolio_pic.png")
-
-#### Don't forget to connect with me on social media and be sure to check out the content!
-[<code><img width="72px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></code>](https://www.linkedin.com/jonchristie)       
-[<code><img width="72px" src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></code>](https://twitter.com/jonpchristie)       
-[<code><img width="72px" src="https://img.icons8.com/color/48/000000/youtube-play.png"/></code>](https://www.youtube.com/channel/UC5GFnN-lv8Yuqc9O3b79k6g)       
-[<code><img width="72px" src="https://img.icons8.com/color/48/000000/facebook.png"/></code>](https://www.facebook.com/jonpchristie)       
-[<code><img width="72px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></code>](https://www.instagram.com/fullstack11235)       
-[<code><img width="72px" src="https://img.icons8.com/color/48/000000/soundcloud.png"/></code>](https://soundcloud.com/jonchristie#/)       
-[<code><img width="72px" src="https://img.icons8.com/color/48/000000/spotify--v1.png"/></code>](https://open.spotify.com/artist/07S7aLfxH70VAX64g1WuFw?si=tlOj1OMBRLm-y4sY8Lox3Q)
-
+| <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/portfolio_pic.png" alt="portfolio image" width="160px" height="120px"/>| <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/superPantryBuddy.png" alt="portfolio image" width="160px" height="120px"/>| <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/python100.png" alt="portfolio image" width="160px" height="120px"/>| <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/Pick2Hand.jpg" alt="portfolio image" width="160px" height="120px"/>| 
+|:-:|:-:|:-:|:-:|
+| Portfolio 	| Super Pantry Buddy 	| A Python Guide 	| Pick2Hand 	| 
+| [<img src="https://github.com/mathcodes/mathcodes/blob/main/assets/github_alt_white.svg" height="30px"/>](https://github.com/mathcodes/JonChristie2021/)	| [<img src="https://github.com/mathcodes/mathcodes/blob/main/assets/github_alt_white.svg" height="30px"/>](https://github.com/mathcodes/SuperPantryBuddy)	| [<img src="https://github.com/mathcodes/mathcodes/blob/main/assets/github_alt_white.svg" height="30px"/>](https://github.com/mathcodes/100-Days-of-Code-Python-More)	| [<img src="https://github.com/mathcodes/mathcodes/blob/main/assets/github_alt_white.svg" height="30px"/>](https://github.com/mathcodes/pick2hand)	|
+| [🔗]( ) | [🔗]( ) | [🔗]( ) | [🔗]( ) |
  
-## Languages, Frameworks, and Libraries
+## Technology
+### These are the tools I've worked with and feel comfortable using in a professional setting:
 [<code>
 <img alt="visual studio code" width="48px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
@@ -114,3 +101,18 @@
 <a href="https://github.com/mathcodes">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mathcodes&layout=compact&theme=radical" />
 </a>
+
+## Contact
+<img src="https://avatars0.githubusercontent.com/u/17928947?v=4" alt="Github profile image" width="80px" height="80px" />
+
+__Jon Christie__ 
+
+GitHub: [mathcodes](https://github.com/mathcodes) 
+
+[<code><img width="36px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></code>](https://www.linkedin.com/jonchristie)       
+[<code><img width="36" src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></code>](https://twitter.com/jonpchristie)       
+[<code><img width="36" src="https://img.icons8.com/color/48/000000/youtube-play.png"/></code>](https://www.youtube.com/channel/UC5GFnN-lv8Yuqc9O3b79k6g)       
+[<code><img width="36" src="https://img.icons8.com/color/48/000000/facebook.png"/></code>](https://www.facebook.com/jonpchristie)       
+[<code><img width="36" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></code>](https://www.instagram.com/fullstack11235)       
+[<code><img width="36" src="https://img.icons8.com/color/48/000000/soundcloud.png"/></code>](https://soundcloud.com/jonchristie#/)       
+[<code><img width="36" src="https://img.icons8.com/color/48/000000/spotify--v1.png"/></code>](https://open.spotify.com/artist/07S7aLfxH70VAX64g1WuFw?si=tlOj1OMBRLm-y4sY8Lox3Q)
