@@ -1,6 +1,16 @@
 # Jon Christie
 
-#### Welcome to my github profile! I have vast amount of repos covering full stack web development along with some recent additions of AI, automation, and data analysis using Python. So enjoy! I am currently looking for work so be sure to check out my [portfolio](https://mathcodes.github.io/JonChristie2021/) if you know of any positions in web development. I would greatly appreciate that. Either way, feel free to contact me if you're hiring, looking for someone to collaborate with, or looking for a team to create, learn, and meet fellow developers!
+### Welcome to my github profile! I have vast amount of repos covering full stack web development along with some recent additions of AI, automation, and data analysis using Python. So enjoy! I am currently looking for work so be sure to check out my [portfolio](https://mathcodes.github.io/JonChristie2021/) if you know of any positions in web development. I would greatly appreciate that. Either way, feel free to contact me if you're hiring, looking for someone to collaborate with, or looking for a team to create, learn, and meet fellow developers!
+
+## Projects
+### Here are some of my favorite projects I'm proud of:
+
+| <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/portfolio_pic.png" alt="portfolio image" width="160px" height="120px"/><br/>Portfolio | <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/superPantryBuddy.png" alt="portfolio image" width="160px" height="120px"/><br/> Super Pantry Buddy | <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/python100.png" alt="portfolio image" width="160px" height="120px"/><br/>A Python Guide | <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/Pick2Hand.jpg" alt="portfolio image" width="160px" height="120px"/><br/> "Pick2Hand" Game | <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/SCB.png" alt="portfolio image" width="160px" height="120px"/><br/> Client's Site |
+|-|-|-|-|-|
+
+<img src="./src/assets/img/projects/portfolio_pic.png" alt="portfolio image" height="3rem"/>
+   
+ ![Alt]("./src/assets/img/projects/portfolio_pic.png")
 
 #### Don't forget to connect with me on social media and be sure to check out the content!
 [<code><img width="72px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></code>](https://www.linkedin.com/jonchristie)       
@@ -12,7 +22,7 @@
 [<code><img width="72px" src="https://img.icons8.com/color/48/000000/spotify--v1.png"/></code>](https://open.spotify.com/artist/07S7aLfxH70VAX64g1WuFw?si=tlOj1OMBRLm-y4sY8Lox3Q)
 
  
-### Languages, Frameworks, and Libraries
+## Languages, Frameworks, and Libraries
 [<code>
 <img alt="visual studio code" width="48px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
@@ -97,11 +107,7 @@
 </code>](www.mongodb.com)
 
 
-<!-- ### Stats:
-<a href="https://github.com/mathcodes">
-<img align="center" alt="Jon's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mathcodes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a> -->
-
-### Languages:
+## Stats:
 <a href="https://github.com/mathcodes">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mathcodes&layout=compact&theme=radical" />
 </a>
