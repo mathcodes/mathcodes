@@ -1,8 +1,8 @@
 # Jon Christie
 
-#### Welcome! Enjoy my repositories... and feel free to contact me if you're hiring, looking for someone to collaborate with, or looking for a team to create, learn, and meet fellow developers!
+#### Welcome to my github profile! I have vast amount of repos covering full stack web development along with some recent additions of AI, automation, and data analysis using Python. So enjoy! I am currently looking for work so be sure to check out my [portfolio](https://mathcodes.github.io/JonChristie2021/) if you know of any positions in web development. I would greatly appreciate that. Either way, feel free to contact me if you're hiring, looking for someone to collaborate with, or looking for a team to create, learn, and meet fellow developers!
 
-#### Don't forget to follow me on here, and check my out my social media profiles:
+#### Don't forget to connect with me on social media and be sure to check out the content!
 [<code><img width="72px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></code>](https://www.linkedin.com/jonchristie)       
 [<code><img width="72px" src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></code>](https://twitter.com/jonpchristie)       
 [<code><img width="72px" src="https://img.icons8.com/color/48/000000/youtube-play.png"/></code>](https://www.youtube.com/channel/UC5GFnN-lv8Yuqc9O3b79k6g)       
