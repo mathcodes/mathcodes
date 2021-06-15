@@ -5,8 +5,11 @@
 ## Projects
 ### Here are some of my favorite projects I'm proud of:
 
-| <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/portfolio_pic.png" alt="portfolio image" width="160em" height="120em"/><br/>Portfolio | <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/superPantryBuddy.png" alt="portfolio image" width="160em" height="120em"/><br/> Super Pantry Buddy | <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/python100.png" alt="portfolio image" width="160em" height="120em"/><br/>A Python Guide | <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/Pick2Hand.jpg" alt="portfolio image" width="160em" height="120em"/><br/> "Pick2Hand" Game | <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/SCB.png" alt="portfolio image" width="160em" height="120em"/><br/> Client's Site |
-|-|-|-|-|-|
+
+| <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/portfolio_pic.png" alt="portfolio image" width="160px" height="120px"/>| <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/superPantryBuddy.png" alt="portfolio image" width="160px" height="120px"/>| <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/python100.png" alt="portfolio image" width="160px" height="120px"/>| <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/Pick2Hand.jpg" alt="portfolio image" width="160px" height="120px"/>| <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/SCB.png" alt="portfolio image" width="160px" height="120px"/>|
+|:-:|:-:|:-:|:-:|:-:|
+| Portfolio 	| Super Pantry Buddy 	| A Python Guide 	| Pick2Hand 	| Client's Site 	|
+
 
 <img src="./src/assets/img/projects/portfolio_pic.png" alt="portfolio image" height="3rem"/>
    
