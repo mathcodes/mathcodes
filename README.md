@@ -108,7 +108,7 @@
 
 __Jon Christie__ 
 
-GitHub: [mathcodes](https://github.com/mathcodes) 
+GitHub: [mathcodes](https://github.com/mathcodes)
 
 [<code><img width="36px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></code>](https://www.linkedin.com/jonchristie)       
 [<code><img width="36" src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></code>](https://twitter.com/jonpchristie)       
