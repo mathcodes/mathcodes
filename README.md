@@ -1,6 +1,13 @@
 # Jon Christie
 
-### Welcome to my github profile! I have vast amount of repos covering full stack web development along with some recent additions of AI, automation, and data analysis using Python. So enjoy! I am currently looking for work so be sure to check out my [portfolio](https://mathcodes.github.io/JonChristie2021/) if you know of any positions in web development. I would greatly appreciate that. Either way, feel free to contact me if you're hiring, looking for someone to collaborate with, or looking for a team to create, learn, and meet fellow developers!
+<a href="https://github.com/mathcodes"><img src="https://img.shields.io/github/followers/mathcodes?style=social" target="_blank" /></a>
+    <a href="https://twitter.com/jonpchristie">
+        <img alt="Twitter: jonpchristie" src="https://img.shields.io/twitter/follow/jonpchristie.svg?style=social" target="_blank" />
+    </a>
+
+### Welcome to my github profile! I have vast amount of repos covering full stack web development along with some recent additions of AI, automation, and data analysis using Python. Enjoy! 
+
+### Currently looking for work so be sure to check out my [portfolio](https://mathcodes.github.io/JonChristie2021/) if you know of any positions in web development or related fields, and feel free to contact me if you're hiring, looking for someone to collaborate with, or looking for a team to create, learn, and meet fellow developers! Much appreciated 🙏
 
 ## Projects
 ### Here are some of my favorite projects:
@@ -9,11 +16,11 @@
 |:-:|:-:|:-:|:-:|
 | Portfolio 	| Super Pantry Buddy 	| A Python Guide 	| Pick2Hand 	| 
 | [<img src="https://github.com/mathcodes/mathcodes/blob/main/assets/github_alt_white.svg" height="30px"/>](https://github.com/mathcodes/JonChristie2021/)	| [<img src="https://github.com/mathcodes/mathcodes/blob/main/assets/github_alt_white.svg" height="30px"/>](https://github.com/mathcodes/SuperPantryBuddy)	| [<img src="https://github.com/mathcodes/mathcodes/blob/main/assets/github_alt_white.svg" height="30px"/>](https://github.com/mathcodes/100-Days-of-Code-Python-More)	| [<code><img src="https://github.com/mathcodes/mathcodes/blob/main/assets/github_alt_white.svg" height="30px"/></code>](https://github.com/mathcodes/pick2hand)	|
-| [🔗](https://mathcodes.github.io/JonChristie2021/) | [🔗](https://superpantrybuddy.herokuapp.com/) | [🔗](https://mathcodes.github.io/100-Days-of-Code-Python-More/) | [🔗](https://mathcodes.github.io/pick2hand/) |
+
 
  
 ## Technology
-### These are the tools I've worked with and feel comfortable using in a professional setting:
+### Technology I've worked with and feel comfortable using in a professional setting:
 [<code>
 <img alt="visual studio code" width="48px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
