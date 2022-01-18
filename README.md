@@ -8,17 +8,6 @@
 ##### Welcome to my github profile! I have vast amount of repos covering full stack web development along with some recent additions of AI, automation, and data analysis using Python. Enjoy! 
 
 ##### Currently looking for work so be sure to check out my [jonchristio.io](jonchristio.io) if you know of any positions in web development or related fields, and feel free to contact me if you're hiring, looking for someone to collaborate with, or looking for a team to create, learn, and meet fellow developers!  
-
-### Projects
-##### The following six projects portray a decent spread of the knowledge I've acquired over the years, including `MERN`, `AWS`, `FireBase`, `APIs`, `2D Platformers`, `CLI Programs`, `Ruby on Rails`, and much more!!!!
-
-| <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/portfolio_pic.png" alt="portfolio image" width="120px" height="90px"/>| <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/superPantryBuddy.png" alt="portfolio image" width="120px" height="90px"/>| <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/python100.png" alt="portfolio image" width="120px" height="90px"/>| <img src="https://raw.githubusercontent.com/mathcodes/JonChristie2021/main/src/assets/img/projects/Pick2Hand.jpg" alt="portfolio image" width="120px" height="90px"/>| <img src="https://raw.githubusercontent.com/mathcodes/Ruby-Warrior-CLI-Learning-Game/main/RW.png" alt="portfolio image" width="120px" height="90px"/>|<img alt="Screen Shot 2021-11-22 at 1 17 26 PM" src="https://user-images.githubusercontent.com/17928947/142914253-e16d99ae-8d8e-48d2-aec5-ddeb8dfbaaf3.png"  height="90px" />|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| Portfolio 	| Super Pantry Buddy 	| A Python Guide 	| Pick2Hand 	| Ruby Warrior | THREEJS |
-| [<img src="https://github.com/mathcodes/mathcodes/blob/main/assets/github_alt_white.svg" height="30px"/>](https://github.com/mathcodes/JonChristie2021/)	| [<img src="https://github.com/mathcodes/mathcodes/blob/main/assets/github_alt_white.svg" height="30px"/>](https://github.com/mathcodes/SuperPantryBuddy)	| [<img src="https://github.com/mathcodes/mathcodes/blob/main/assets/github_alt_white.svg" height="30px"/>](https://github.com/mathcodes/100-Days-of-Code-Python-More)	| [<img src="https://github.com/mathcodes/mathcodes/blob/main/assets/github_alt_white.svg" height="30px"/>](https://github.com/mathcodes/pick2hand)	 | [<img src="https://github.com/mathcodes/mathcodes/blob/main/assets/github_alt_white.svg" height="30px"/> ](https://github.com/mathcodes/rubyWarrior)| [<img src="https://github.com/mathcodes/mathcodes/blob/main/assets/github_alt_white.svg" height="30px"/> ](https://github.com/mathcodes/rubyWarrior)|
-
-
-
  
 ### Technology
 ##### Technology I've worked with and feel comfortable using in a professional setting:
