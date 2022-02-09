@@ -1,9 +1,4 @@
-# Jon Christie
-
-<a href="https://github.com/mathcodes"><img src="https://img.shields.io/github/followers/mathcodes?style=social" target="_blank" /></a>
-    <a href="https://twitter.com/jonpchristie">
-        <img alt="Twitter: jonpchristie" src="https://img.shields.io/twitter/follow/jonpchristie.svg?style=social" target="_blank" />
-    </a>
+<div width="70%"></div><img src="https://mathcodes.github.io/jc22/static/media/JCircle.396647e0.png"   width="25%"/>
 
 ##### Welcome to my github profile! I have vast amount of repos covering full stack web development along with some recent additions of AI, automation, and data analysis using Python. Enjoy! 
 
@@ -27,7 +22,8 @@
 <img alt="typescript"  src="https://img.icons8.com/color/48/000000/typescript.png">
 </code>](https://www.typescriptlang.org/)
 [<code>
-<img alt="react" width="48px" src="https://img.icons8.com/color/240/000000/react-native.png" />
+<img alt="react" width="48px" src="https://img.icons8.com/color/240/000000/react-native.png" />![jc](https://user-images.githubusercontent.com/17928947/153304730-79b1e2a8-93c1-4174-bca1-ee8ba0c25128.png)
+
 </code>](https://reactjs.org/)
 [<code>
 <img alt="java" width="48px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
