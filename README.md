@@ -1,4 +1,7 @@
-<div width="70%"></div><img src="https://raw.githubusercontent.com/mathcodes/mathcodes/main/jc.png"   width="60%"/>
+# Jon Christie's Portfolio
+
+<img src="https://raw.githubusercontent.com/mathcodes/mathcodes/main/animation.gif?style=centerme" width="60%"/>
+
 
 ##### Welcome to my github profile! I have vast amount of repos covering full stack web development along with some recent additions of AI, automation, and data analysis using Python. Enjoy! 
 
