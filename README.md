@@ -5,7 +5,7 @@
 
 ##### Welcome to my github profile! I have vast amount of repos covering full stack web development along with some recent additions of AI, automation, and data analysis using Python. Enjoy! 
 
-##### Currently looking for work so be sure to check out my [jonchristio.io](jonchristio.io) if you know of any positions in web development or related fields, and feel free to contact me if you're hiring, looking for someone to collaborate with, or looking for a team to create, learn, and meet fellow developers!  
+##### Currently looking for work so be sure to check out my [https://mathcodes.github.io/](https://mathcodes.github.io/) if you know of any positions in web development or related fields, and feel free to contact me if you're hiring, looking for someone to collaborate with, or looking for a team to create, learn, and meet fellow developers!  
  
 ### Technology
 ##### Technology I've worked with and feel comfortable using in a professional setting:
