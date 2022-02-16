@@ -1,4 +1,4 @@
-# Jon Christie's Portfolio
+# Jon Christie
 
 <img src="https://raw.githubusercontent.com/mathcodes/mathcodes/main/animation.gif?style=centerme" width="60%"/>
 
