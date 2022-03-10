@@ -1,6 +1,6 @@
 # Jon Christie
 
-<img src="https://raw.githubusercontent.com/mathcodes/mathcodes/main/animation.gif?style=centerme" width="60%"/>
+<img src="https://raw.githubusercontent.com/mathcodes/mathcodes/main/animation.gif?style=centerme" width="100%"/>
 
 
 ##### Welcome to my github profile! I have vast amount of repos covering full stack web development along with some recent additions of AI, automation, and data analysis using Python. Enjoy! 
