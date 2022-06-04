@@ -1,6 +1,10 @@
 # Jon Christie
 
-<img src="https://raw.githubusercontent.com/mathcodes/mathcodes/main/animation.gif?style=centerme" width="100%"/>
+[![stars - badge-generator](https://img.shields.io/github/stars/MichaelCurrin/badge-generator?style=social)](https://github.com/MichaelCurrin/badge-generator)
+[![forks - badge-generator](https://img.shields.io/github/forks/MichaelCurrin/badge-generator?style=social)](https://github.com/MichaelCurrin/badge-generator)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jonpchristie?style=social&logo=twitter)](https://twitter.com/jonpchristie)
+[![GitHub Follow](https://img.shields.io/github/followers/mathcodes?style=social&logo=github)](https://github.com/mathcodes)
+
 
 
 ##### Welcome to my github profile! I have vast amount of repos covering full stack web development along with some recent additions of AI, automation, and data analysis using Python. Enjoy! 
