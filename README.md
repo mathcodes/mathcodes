@@ -101,9 +101,9 @@
 
 
 ## Stats:
-<a href="https://github.com/mathcodes">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mathcodes&layout=compact&theme=radical" />
-</a>
+![mathcodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=mathcodes&count_private=true)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 <img src="https://avatars0.githubusercontent.com/u/17928947?v=4" alt="Github profile image" width="80px" height="80px" />
