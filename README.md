@@ -1,9 +1,9 @@
 # Jon Christie
 
-[![stars - badge-generator](https://img.shields.io/github/stars/MichaelCurrin/badge-generator?style=social)](https://github.com/MichaelCurrin/badge-generator)
-[![forks - badge-generator](https://img.shields.io/github/forks/MichaelCurrin/badge-generator?style=social)](https://github.com/MichaelCurrin/badge-generator)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jonpchristie?style=social&logo=twitter)](https://twitter.com/jonpchristie)
-[![GitHub Follow](https://img.shields.io/github/followers/mathcodes?style=social&logo=github)](https://github.com/mathcodes)
+![stars - badge-generator](https://img.shields.io/github/stars/MichaelCurrin/badge-generator?style=radical)
+![forks - badge-generator](https://img.shields.io/github/forks/MichaelCurrin/badge-generator?style=radical)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jonpchristie?style=radical&logo=twitter)](https://twitter.com/jonpchristie)
+[![GitHub Follow](https://img.shields.io/github/followers/mathcodes?style=radical&logo=github)](https://github.com/mathcodes)
 
 
 
@@ -101,9 +101,9 @@
 
 
 ## Stats:
-![mathcodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=mathcodes&count_private=true)
+![mathcodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=mathcodes&theme=dark&show_icons=true&count_private=true)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathcodes&theme=dark&show_icons=true&&langs_count=5)
 
 ## Contact
 <img src="https://avatars0.githubusercontent.com/u/17928947?v=4" alt="Github profile image" width="80px" height="80px" />
