@@ -14,5 +14,5 @@ jobs:
             # Use this username's contribution graph  
             user_name: mathcodes
             # Text on contribution graph 
-            text: THANKS
+            text: fullstack11235
        - uses: jasineri/simple-push-action@v1
