@@ -96,12 +96,12 @@
 [<code>
 <img alt="Ruby On Rails" width="48px" src="https://img.icons8.com/windows/32/ffffff/ruby-on-rails.png">
 </code>](https://ubuntu.com/)
-[<code><img src="https://img.icons8.com/color/48<!--  -->/000000/mongodb.png"/>
+[<code><img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 </code>](www.mongodb.com)
 
 
 ## Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=mathcodes&theme=dark&show_icons=true&count_private=true" height="200px" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathcodes&theme=dark&show_icons=true&&langs_count=4&count_private=true" height="200px" />
+<img src="https://github-readme-stats.vercel.app/api?username=mathcodes&theme=dark&show_icons=true" height="200px" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathcodes&theme=dark&show_icons=true&&langs_count=4&count_private=true" height="200px" />
 
 ## Contact
 <img src="https://avatars0.githubusercontent.com/u/17928947?v=4" alt="Github profile image" width="80px" height="80px" />
