@@ -17,8 +17,11 @@
 <img alt="visual studio code" width="48px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
 [<code>
-<img alt="html5" width="48px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<code>
+<img alt="leetcode" width="48px" src="https://raw.githubusercontent.com/mathcodes/mathcodes/main/assets/img/LC.png" />
+</code>](https://leetcode.com/)
+<img alt="html5" width="48px" src="https://img.icons8.com/color/240/000000/html-5.png" />
+</code>]
 [<code>
 <img alt="css3" width="48px" src="https://img.icons8.com/color/240/000000/css3.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
