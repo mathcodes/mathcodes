@@ -103,7 +103,7 @@
 </code>](www.mongodb.com)
 
 ## Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=mathcodes&theme=dark&show_icons=true" height="220px" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathcodes&theme=dark&show_icons=true&&langs_count=5&show_icons=true" height="200px" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=mathcodes&theme=dark&show_icons=true" height="220px" /> 
 
 ## Contact
 <img src="https://avatars0.githubusercontent.com/u/17928947?v=4" alt="Github profile image" width="80px" height="80px" />
