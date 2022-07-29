@@ -9,7 +9,7 @@
 
 ##### Welcome to my github profile! Here you will find repos covering full stack web development along with some recent additions of AI, automation, and data analysis using Python... and even more recent additions including [lc_hr_cw](https://github.com/mathcodes/lc_hr_cw) and [react-native-apps](https://github.com/mathcodes/react-native-apps). Enjoy! 
 
-##### Currently looking for work so be sure to check out my [https://mathcodes.github.io/](https://mathcodes.github.io/) if you know of any positions in web development or related fields, and feel free to contact me if you're hiring, looking for someone to collaborate with, or looking for a team to create, learn, and meet fellow developers!  
+##### Currently looking for work so be sure to check out my [Portoflio](https://www.jonchristie.net) if you know of any positions in web development or related fields, and feel free to contact me if you're hiring, looking for someone to collaborate with, or looking for a team to create, learn, and meet fellow developers!  
  
 ### Technology
 ##### Technology I've worked with and feel comfortable using in a professional setting:
