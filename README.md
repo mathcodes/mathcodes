@@ -2,7 +2,7 @@
 
 ![stars - badge-generator](https://img.shields.io/github/stars/MichaelCurrin/badge-generator?style=radical)
 ![forks - badge-generator](https://img.shields.io/github/forks/MichaelCurrin/badge-generator?style=radical)
-[![Twitter Follow](https://img.shields.io/twitter/follow/JonTernary?style=radical&logo=twitter)](https://twitter.com/JonTernary)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TheJonChristie?style=radical&logo=twitter)](https://twitter.com/TheJonChristie)
 [![GitHub Follow](https://img.shields.io/github/followers/mathcodes?style=radical&logo=github)](https://github.com/mathcodes)
 
 
