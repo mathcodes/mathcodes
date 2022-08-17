@@ -1,123 +1,49 @@
-# Jon Christie
+### Hello and welcome! My name is Jon Christie 👋
 
-![stars - badge-generator](https://img.shields.io/github/stars/MichaelCurrin/badge-generator?style=radical)
-![forks - badge-generator](https://img.shields.io/github/forks/MichaelCurrin/badge-generator?style=radical)
-[![Twitter Follow](https://img.shields.io/twitter/follow/fullstack112358?style=radical&logo=twitter)](https://twitter.com/fullstack112358)
-[![GitHub Follow](https://img.shields.io/github/followers/mathcodes?style=radical&logo=github)](https://github.com/mathcodes)
-
-
-
-##### Welcome to my github profile! Here you will find repos covering full stack web development along with some recent additions of AI, automation, and data analysis using Python. Some of my most recent project include [lc_hr_cw](https://github.com/mathcodes/lc_hr_cw) and [react-native-apps](https://github.com/mathcodes/react-native-apps). Enjoy! 
-
-##### Currently looking for work so be sure to check out my [Portoflio](https://www.jonchristie.net) if you know of any positions in web development or related fields, and feel free to contact me if you're hiring, looking for someone to collaborate with, or looking for a team to create, learn, and meet fellow developers!  
+<br/>
  
-### Technology
-##### Technology I've worked with and feel comfortable using in a professional setting:
-[<code>
-<img alt="visual studio code" width="48px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
-[<code>
-<img alt="leetcode" width="48px" src="https://raw.githubusercontent.com/mathcodes/mathcodes/main/assets/img/LC.png" />
-</code>](https://leetcode.com/)
-<img alt="html5" width="48px" src="https://img.icons8.com/color/240/000000/html-5.png" />
-</code>]
-[<code>
-<img alt="css3" width="48px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="javascript" width="48px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="typescript"  src="https://img.icons8.com/color/48/000000/typescript.png">
-</code>](https://www.typescriptlang.org/)
-[<code>
-<img alt="react" width="48px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-</code>](https://reactjs.org/)
-[<code>
-<img alt="java" width="48px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)
-[<code>
-<img alt="pycharm" width="48px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
-</code>](https://www.jetbrains.com/pycharm/)
-[<code>
-<img alt="python" width="48px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
-[<code>
-<img alt="sass" width="48px" src="https://img.icons8.com/color/240/000000/sass.png">
-</code>](https://sass-lang.com/)
-[<code>
-<img alt="json" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)
-[<code>
-<img alt="eslint" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</code>](https://eslint.org/)
-[<code>
-<img alt="Node.js" width="48px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
-[<code>
-<img alt="MySQL" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
-[<code>
-<img src="https://img.icons8.com/color/48/000000/adobe-indesign.png"/>
-</code>](https://www.adobe.com/creativecloud.html)
-[<code>
-<img src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png"/>
-</code>](https://www.adobe.com/creativecloud.html)
-[<code>
-<img src="https://img.icons8.com/fluent/48/000000/adobe-dreamweaver.png"/>
-</code>](https://www.adobe.com/creativecloud.html)
-[<code>
-<img src="https://img.icons8.com/fluent/48/000000/adobe-illustrator.png"/>
-</code>](https://www.adobe.com/creativecloud.html)
-[<code>
-<img src="https://img.icons8.com/ios/50/ffffff/markdown--v2.png"/>
-</code>](https://www.markdownguide.org/)
-[<code>
-<img alt="Git" width="48px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
-<img src="https://img.icons8.com/ios/50/ffffff/github.png"/>
-</code>](https://github.com/)
-[<code><img src="https://img.icons8.com/color/48/000000/heroku.png"/>
-</code>](www.heroku.com)
-[<code>
-<img alt="terminal" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>](https://docs.microsoft.com/en-us/windows/terminal/)
-[<code>
-<img alt="windows" width="48px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
-[<code>
-<img width="48px" src="https://img.icons8.com/windows/32/ffffff/amazon-web-services.png"/>
-</code>](aws.com)
-[<code>
-<img src="https://img.icons8.com/color/48/000000/mac-os.png"/>
-</code>](https://www.apple.com/)
-[<code>
-<img alt="ubuntu" width="48px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
-</code>]
-[<code>
-<img alt="Ruby On Rails" width="48px" src="https://img.icons8.com/windows/32/ffffff/ruby-on-rails.png">
-</code>](https://ubuntu.com/)
-[<code><img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-</code>](www.mongodb.com)
+👷‍♂️ &nbsp;&nbsp;I’m currently working on `React Native Apps` and `Content Creation`
 
-## Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=mathcodes&theme=dark&show_icons=true" height="220px" /> 
+📚&nbsp;&nbsp; I’m currently learning `Scalable, Full Stack Serverless Apps`
 
-## Contact
-<img src="https://avatars0.githubusercontent.com/u/17928947?v=4" alt="Github profile image" width="80px" height="80px" />
+🤝&nbsp;&nbsp; I’m interested in `collaborating` on `open-source` projects. Click [here](https://github.com/mathcodes/lc_hr_cw) if you are too!
 
-__Jon Christie__ 
+🔭 &nbsp;&nbsp;I’m looking for feedback, collaborators, and most importantly, my next job!
 
-GitHub: [mathcodes](https://github.com/mathcodes)
+🙋🏻 &nbsp;&nbsp;Ask me anything about coding, web development, networking, job opportunities or whatever is on your mind!!! 
 
-[<code><img width="36px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></code>](https://www.linkedin.com/jonchristie)       
-[<code><img width="36" src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></code>](https://twitter.com/jonpchristie)       
-[<code><img width="36" src="https://img.icons8.com/color/48/000000/youtube-play.png"/></code>](https://www.youtube.com/channel/UC5GFnN-lv8Yuqc9O3b79k6g)       
-[<code><img width="36" src="https://img.icons8.com/color/48/000000/facebook.png"/></code>](https://www.facebook.com/jonpchristie)       
-[<code><img width="36" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></code>](https://www.instagram.com/fullstack11235)       
-[<code><img width="36" src="https://img.icons8.com/color/48/000000/soundcloud.png"/></code>](https://soundcloud.com/jonchristie#/)       
-[<code><img width="36" src="https://img.icons8.com/color/48/000000/spotify--v1.png"/></code>](https://open.spotify.com/artist/07S7aLfxH70VAX64g1WuFw?si=tlOj1OMBRLm-y4sY8Lox3Q)
+☎️ &nbsp;&nbsp; How to reach me:  DM on [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/thejonchristie "DM on twitter")
 
-![gitartwork](./gitartwork.svg)
+
+😁 Lil' about me: Looking for work with frontend or the like, content creator, team plater, musician (live and in studio), surfer, , youtuber, wants to settle in mountains. I also maintain a jokes and quotes sharing website [Gofugly](https://gofugly.in "Gofugly")
+
+### Connect me over socia media
+
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/mathcodes "Twitter") [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jonpchristie/ "LinkedIn") 
+
+### My github stats
+<!-- 
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathcodes&show_icons=true&theme=radical) -->
+
+#### Total contribution
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mathcodes&theme=tokyonight" alt="mystreak"/>
+
+#### Contribution graph
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=mathcodes&theme=react-dark&hide_border=true&area=true)
+
+![Snake animation](https://github.com/mathcodes/mathcodes/blob/main/github-contribution-snake.svg)
+
+#### Github trophy
+
+<img src="https://github-profile-trophy.vercel.app/?username=mathcodes&theme=juicyfresh&no-bg=true" />
+
+### Looking for a laugh?!?!?!
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
+### Profile visits
+
+<img src="https://komarev.com/ghpvc/?username=mathcodes&color=brightgreen" alt="watching_count" />
+
