@@ -20,7 +20,7 @@
 
 ### My github stats
 
-![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathcodes&show_icons=true&theme=radical) 
+![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathcodes&show_icons=true&theme=radical) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mathcodes&theme=dark&currStreakLabel=4FAEBA&border=4FAEBA&stroke=A92CA2&fire=4FAEBA&ring=A92CA2&dates=DDDDDD)](https://git.io/streak-stats)
 
 #### Contribution graph
 
