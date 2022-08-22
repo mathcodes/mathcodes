@@ -120,4 +120,4 @@ GitHub: [mathcodes](https://github.com/mathcodes)
 [<code><img width="36" src="https://img.icons8.com/color/48/000000/soundcloud.png"/></code>](https://soundcloud.com/jonchristie#/)       
 [<code><img width="36" src="https://img.icons8.com/color/48/000000/spotify--v1.png"/></code>](https://open.spotify.com/artist/07S7aLfxH70VAX64g1WuFw?si=tlOj1OMBRLm-y4sY8Lox3Q)
 
-![gitartwork](./gitartwork.svg)
+![gitartwork](./gitartwork.svg) 
