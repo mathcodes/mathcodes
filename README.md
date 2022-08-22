@@ -35,7 +35,7 @@
 
 ![Snake animation](https://github.com/mathcodes/mathcodes/blob/main/github-contribution-snake.svg)
 
-#### Github trophy
+#### Github trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=mathcodes&theme=juicyfresh&no-bg=true" />
 
