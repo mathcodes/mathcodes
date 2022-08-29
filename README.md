@@ -30,8 +30,6 @@ I am...
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=mathcodes&theme=react-dark&hide_border=true&area=true&card_width=50)
 
-![Snake animation](https://github.com/mathcodes/mathcodes/blob/main/github-contribution-snake.svg)
-
 #### Github trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=mathcodes&theme=juicyfresh&no-bg=true" />
