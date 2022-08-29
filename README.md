@@ -1,18 +1,22 @@
 ### Hello and welcome! My name is Jon Christie 👋
 
 <br/>
- 
-👷‍♂️ &nbsp;&nbsp;I’m currently working on `React Native Apps` and `Content Creation`
 
-📚&nbsp;&nbsp; I’m currently learning `Scalable, Full Stack Serverless Apps`
+I am...
 
-🤝&nbsp;&nbsp; I’m interested in `collaborating` on `open-source` projects. Click [here](https://github.com/mathcodes/lc_hr_cw) if you are too!
+<br/>
 
-🔭 &nbsp;&nbsp;I’m looking for feedback, collaborators, and most importantly, my next job!
+🔭 &nbsp;&nbsp;...looking for my next `job` in `frontend web development`. I'm open to related positions including entry-level opportunities!  
 
-🙋🏻 &nbsp;&nbsp;Ask me anything about coding, web development, networking, job opportunities or whatever is on your mind!!! 
+🛠&nbsp;&nbsp;...working on `React Native Apps` and `Content Creation`.
 
-😁 Lil' about me: Looking for work with frontend or the like, content creator, team plater, musician (live and in studio), surfer, , youtuber, wants to settle in mountains. I also maintain a jokes and quotes sharing website [Gofugly](https://gofugly.in "Gofugly")
+📚&nbsp;&nbsp;...currently learning `Scalable, Full Stack Serverless Apps`.
+
+🤝&nbsp;&nbsp;...interested in `collaborating` on `open-source` projects. Click [here](https://github.com/mathcodes/lc_hr_cw) if you are too!
+
+🙋🏻&nbsp;&nbsp;...open to questions and thoughts about `coding`, `web development`, `networking`, `job opportunities` or whatever you have on your mind!!! 
+
+😁 Lil' about me: I made the dive into the tech industry after being in education for 11+ years. I tutor junior devs basic MERN Stack and Python and pickup the odd freelance gig. I love providing visual content to the community covering what I'm currently learning and how it makes sense to ME, which could be how YOU understand it as well. I've always been a team player and will forever enjoy being a musician ([live](https://www.youtube.com/results?search_query=Baffle+%40+2nd+Wind+12.1.17) and in the [studio](https://soundcloud.com/jonchristie)), surfer, and of course, both a teacher and a learner. 
 
 ### Contact and connect me over socia media
 
