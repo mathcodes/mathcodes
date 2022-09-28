@@ -18,7 +18,7 @@ I am...
 
 🙋🏻&nbsp;&nbsp;...open to questions and thoughts about `coding`, `web development`, `networking`, `job opportunities` or whatever you have on your mind!!! 
 
-😁 About me: I made the dive into the tech industry after being in education for 11+ years. I tutor junior devs basic MERN Stack and Python and pickup the odd freelance gig. I love providing visual content to the community covering what I'm currently learning and how it makes sense to ME, which could be how YOU understand it as well. I've always been a team player and will forever enjoy being a musician ([live](https://www.youtube.com/results?search_query=Baffle+%40+2nd+Wind+12.1.17) and in the [studio](https://soundcloud.com/jonchristie)), surfer, and of course, both a teacher and a learner. 
+😁 About me: I made the dive into the tech industry after being in education for 11+ years. I tutor junior devs basic MERN Stack and Python and pickup the odd freelance gig. I love providing visual content to the community covering what I'm currently learning and how it makes sense to ME, which could be how YOU understand it as well. I've always been a team player and will forever enjoy being a musician ([live](https://www.youtube.com/results?search_query=Baffle+%40+2nd+Wind+12.1.17) and in the [studio](https://soundcloud.com/jonchristie)), a surfer, and of course, both a teacher and a learner. 
 
 ### My github stats
 
