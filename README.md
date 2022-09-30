@@ -12,7 +12,7 @@ I am...
 
 🛠&nbsp;&nbsp;...working on `React Native Apps` and `Content Creation`.
 
-📚&nbsp;&nbsp;...currently learning `Scalable, Full Stack Serverless Apps`.
+📚&nbsp;&nbsp;...currently learning `serverless architecture` and diving deeper into `CRUD` and its applications.
 
 🤝&nbsp;&nbsp;...interested in `collaborating` on `open-source` projects. Click [here](https://github.com/mathcodes/lc_hr_cw) if you are too!
 
