@@ -12,7 +12,7 @@ I am...
 
 🛠&nbsp;&nbsp;...working on `React Native Apps` and `Content Creation`.
 
-📚&nbsp;&nbsp;...currently learning how to implement using 'Blender' with `ThreeJS` to create 3D websites and games.
+📚&nbsp;&nbsp;...currently learning how to implement using `Blender` with `ThreeJS` to create 3D websites and games.
 
 🤝&nbsp;&nbsp;...interested in `collaborating` on `open-source` projects. Click [here](https://github.com/mathcodes/lc_hr_cw) if you are too!
 
