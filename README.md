@@ -1,4 +1,4 @@
-### Hello and welcome! My name is Jon Christie 👋
+## Hello and welcome! My name is Jon Christie 👋
 
 ### [MY SITE](https://www.jonchristie.net)
 
