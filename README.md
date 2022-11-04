@@ -12,7 +12,7 @@ I am...
 
 🛠&nbsp;&nbsp;...working on `React Native Apps` and `Content Creation`.
 
-📚&nbsp;&nbsp;...currently maintaining an open source repository for $\mathfrak{\color{orange}{Hacktoberfest}}$
+<!-- 📚&nbsp;&nbsp;...currently maintaining an open source repository for $\mathfrak{\color{orange}{Hacktoberfest}}$ -->
 
 🤝&nbsp;&nbsp;...interested in `collaborating` on `open-source` projects. Click [here](https://github.com/mathcodes/lc_hr_cw) if you are too!
 
