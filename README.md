@@ -4,7 +4,7 @@
 
 <br/>
 
-I am currently...
+I am...
 
 <br/>
 
