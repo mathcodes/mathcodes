@@ -26,8 +26,8 @@ I am...
 | Project | Link |
 | --  | -- |
 |PythonLog* | A Full stack app with Python running the back end. Solo project from start to finish. | 
-[scientific-calculator](scientific-calulator.vercel.app) | Advanced calculator made with Javascript |
-| [contentfordevelopers](www.contentfordevelopers.com/) | Open-Source Project focusing on learning styles and collaboration | 
+[scientific-calculator](http://scientific-calulator.vercel.app/) | Advanced calculator made with Javascript |
+| [contentfordevelopers](https://www.contentfordevelopers.com/) | Open-Source Project focusing on learning styles and collaboration | 
 
 * transferring from Heroku to Vercel
 
