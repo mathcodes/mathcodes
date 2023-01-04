@@ -25,11 +25,10 @@ I am...
 
 | Project | Link |
 | --  | -- |
-|PythonLog* | A Full stack app with Python running the back end. Solo project from start to finish. | 
-[scientific-calculator](http://scientific-calulator.vercel.app/) | Advanced calculator made with Javascript |
+|[Marketing-App](https://marketing-app-demo.vercel.app/) | Customizable, reliable, maintainable, and performant. Clean and understandable code for easy refactoring and working with teams.  | 
+|[scientific-calculator](http://scientific-calc.vercel.app/)| Advanced calculator made with Javascript |
 | [contentfordevelopers](https://www.contentfordevelopers.com/) | Open-Source Project focusing on learning styles and collaboration | 
 
-* transferring from Heroku to Vercel
 
 ## More of My Work:
 ### [Replit](https://github.com/mathcodes/PythonReplitCodeAndLinks)
