@@ -34,11 +34,6 @@ I am...
 ### [Replit](https://github.com/mathcodes/PythonReplitCodeAndLinks)
 ### [Codepen](https://replit.com/@fullstack11235)
 
-
-## My github stats
-
-![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathcodes&show_icons=true&theme=monokai) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mathcodes&theme=monokai&currStreakLabel=4FAEBA&border=4FAEBA&stroke=A92CA2&fire=4FAEBA&ring=A92CA2&dates=DDDDDD)](https://git.io/streak-stats)
-
 <!-- ## Contribution graph
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=mathcodes&theme=react-dark&hide_border=true&area=true&card_width=50) -->
