@@ -26,7 +26,9 @@ I am...
 | Project | Link |
 | --  | -- |
 |[Marketing-App](https://marketing-app-demo.vercel.app/) | Customizable, reliable, maintainable, and performant. Clean and understandable code for easy refactoring and working with teams.  | 
-|[scientific-calculator](http://scientific-calc.vercel.app/)| Advanced calculator made with Javascript |
+|[TS-To-Do-App](https://github.com/mathcodes/typescript-tags-todo)| Filter, create, delete, edit and update their notes. Fully responsive and written with clean, easy to understand code.|
+|[fb_clone](https://github.com/mathcodes/fb-clone)|Equipped with NextJS, TypeScript, TailwindCSS, Firebase|
+|[Scientific-Calculator](http://scientific-calc.vercel.app/)| Advanced calculator made with Javascript |
 | [contentfordevelopers](https://www.contentfordevelopers.com/) | Open-Source Project focusing on learning styles and collaboration | 
 
 
