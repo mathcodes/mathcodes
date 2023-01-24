@@ -10,7 +10,7 @@ I am...
 
 🔭 &nbsp;&nbsp;...looking for my next `job` in `frontend web development`. I'm open to related positions including entry-level opportunities!  
 
-🛠&nbsp;&nbsp;...working on open-source project, `ContentForDevelopers.com`.
+🛠&nbsp;&nbsp;...working on open-source project, `ContentForDevelopers.com` as well as optimizing scalability and performance in the MANY apps I am re-deploying having previously been on Heroku. 
 
 <!-- 📚&nbsp;&nbsp;...currently maintaining an open source repository for $\mathfrak{\color{orange}{Hacktoberfest}}$ -->
 
