@@ -8,6 +8,8 @@ I am...
 
 <br/>
 
+✍️ &nbsp;&nbsp;... starting a new technical blog on Medium found [here](https://medium.com/@jcircle9)
+
 🔭 &nbsp;&nbsp;...looking for my next `job` in `frontend web development`. I'm open to related positions including entry-level opportunities!  
 
 🛠&nbsp;&nbsp;...working on open-source project, [ContentForDevelopers.com](contentfordevelopers.com) as well as optimizing scalability and performance in the MANY apps I am re-deploying having previously been on Heroku. 
