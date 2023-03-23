@@ -8,6 +8,8 @@ I am...
 
 <br/>
 
+✍️ &nbsp;&nbsp;... Mastering the implementation of AI into my products 🤖 🌱
+
 ✍️ &nbsp;&nbsp;... starting a new technical blog on Medium found [here](https://medium.com/@jcircle9)
 
 🔭 &nbsp;&nbsp;...looking for my next `job` in `frontend web development`. I'm open to related positions including entry-level opportunities!  
