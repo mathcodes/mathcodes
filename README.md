@@ -8,7 +8,7 @@ I am...
 
 <br/>
 
-✍️ &nbsp;&nbsp;... Mastering the implementation of AI into my products 🤖 🌱
+✍️ &nbsp;&nbsp;... mastering the implementation of AI into my products with [ChatGPT](https://chat.openai.com/chat) 🤖 🌱
 
 ✍️ &nbsp;&nbsp;... starting a new technical blog on Medium found [here](https://medium.com/@jcircle9)
 
