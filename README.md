@@ -25,16 +25,14 @@ I am...
 😁 About me: I made the dive into the tech industry after being in education for 11+ years. I tutor new developers on the basic MERN Stack and Python while taking on freelance gigs and contributing/maintaining open source projects. I love providing visual content to the community covering what I'm currently learning and how it makes sense to ME, which could be how YOU understand it as well. I've always been a team player and will forever enjoy being a musician ([live](https://www.youtube.com/results?search_query=Baffle+%40+2nd+Wind+12.1.17) and in the [studio](https://soundcloud.com/jonchristie)), a surfer, and of course, both a teacher and a learner. 
 
 
-## Most recent projects
+## Some of my favorite or most recent projects
 
 | Project | Link |
 | --  | -- |
-|[Marketing-App](https://marketing-app-demo.vercel.app/) | Customizable, reliable, maintainable, and performant. Clean and understandable code for easy refactoring and working with teams.  | 
+|[Content For Developers](https://www.contentfordevelopers.com/) | Open-Source Project (Pre-alpha) focusing on learning styles and collaboration | 
+|[ChatGPT For Developers](https://github.com/mathcodes/chatgpt-for-developers)|A basic implemention of the ChatGPT API for use as a boilerplate or learning tool.|
 |[TS-To-Do-App](https://github.com/mathcodes/typescript-tags-todo)| Filter, create, delete, edit and update their notes. Fully responsive and written with clean, easy to understand code.|
-|[fb_clone](https://github.com/mathcodes/fb-clone)|Equipped with NextJS, TypeScript, TailwindCSS, Firebase|
-|[Scientific-Calculator](http://scientific-calc.vercel.app/)| Advanced calculator made with Javascript |
-| [contentfordevelopers](https://www.contentfordevelopers.com/) | Open-Source Project focusing on learning styles and collaboration | 
-
+|[Marketing-App](https://marketing-app-demo.vercel.app/) | Customizable, reliable, maintainable, and performant. Clean and understandable code for easy refactoring and working with teams.| 
 
 ## More of My Work:
 ### [Replit](https://github.com/mathcodes/PythonReplitCodeAndLinks)
