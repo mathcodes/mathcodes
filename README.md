@@ -1,6 +1,6 @@
 ## Hello and welcome! My name is Jon Christie 👋
 
-### [MY SITE](https://www.jonchristie.net)
+### [PORTFOLIO](https://www.jonchristie.net)
 
 <br/>
 
@@ -8,21 +8,21 @@ I am...
 
 <br/>
 
-✍️ &nbsp;&nbsp;... mastering the implementation of AI into my products with [ChatGPT](https://chat.openai.com/chat) 🤖 🌱
+✍️ &nbsp;&nbsp;mastering the art of Prompt Engineering and implementation of AI into my applications with OpenAI's [ChatGPT](https://chat.openai.com/chat), and most recently comparing it with Google's [Bard](https://bard.google.com/)🤖 🌱
 
-✍️ &nbsp;&nbsp;... starting a new technical blog on Medium found [here](https://medium.com/@jcircle9)
+✍️ &nbsp;&nbsp;starting a new technical blog on Medium found [here](https://medium.com/@jcircle9)
 
-🔭 &nbsp;&nbsp;...looking for my next `job` in `frontend web development`. I'm open to related positions including entry-level opportunities!  
+🔭 &nbsp;&nbsp;looking for my next `job` in `frontend web development`. I'm open to related positions including entry-level opportunities!  
 
-🛠&nbsp;&nbsp;...working on open-source project, [ContentForDevelopers.com](contentfordevelopers.com) as well as optimizing scalability and performance in the MANY apps I am re-deploying having previously been on Heroku. 
+🛠&nbsp;&nbsp;working on open-source project, [ContentForDevelopers.com](contentfordevelopers.com) as well as optimizing scalability and performance in the MANY apps I am re-deploying having previously been on Heroku. 
 
-<!-- 📚&nbsp;&nbsp;...currently maintaining an open source repository for $\mathfrak{\color{orange}{Hacktoberfest}}$ -->
+🤝&nbsp;&nbsp;currently forming a team of devs with any amount of experience as a project to collaborate, learn, and gain experience working with others in tech!
 
-🤝&nbsp;&nbsp;...interested in `collaborating` on `open-source` projects. Click [here](https://github.com/mathcodes/lc_hr_cw) if you are too!
+🙋🏻&nbsp;&nbsp;open to questions and thoughts about `coding`, `web development`, `networking`, `job opportunities` or whatever you have on your mind!!! 
 
-🙋🏻&nbsp;&nbsp;...open to questions and thoughts about `coding`, `web development`, `networking`, `job opportunities` or whatever you have on your mind!!! 
+<h2 style="width:100%"; background-color="#135d66"; color="white">About Me</h2>
 
-😁 About me: I made the dive into the tech industry after being in education for 11+ years. I tutor new developers on the basic MERN Stack and Python while taking on freelance gigs and contributing/maintaining open source projects. I love providing visual content to the community covering what I'm currently learning and how it makes sense to ME, which could be how YOU understand it as well. I've always been a team player and will forever enjoy being a musician ([live](https://www.youtube.com/results?search_query=Baffle+%40+2nd+Wind+12.1.17) and in the [studio](https://soundcloud.com/jonchristie)), a surfer, and of course, both a teacher and a learner. 
+I made the dive into the tech industry after being in education for 11+ years. I tutor new developers on the basic MERN Stack, basic Typescript, basic Python, Prompt Engineering, and Cloud Computing. As an advocate of open-source projects, I contribute to many and currently maintain the one I started, [Content For Developers](https://github.com/mathcodes/contentfordevelopers). I love providing visual content to the community covering what I'm currently learning and how it makes sense to ME, which could be how YOU understand it as well. I'm also team player, loving helping otherrs whenever I am able to, and really looking forward to finding a job that allows to to do just that. Outside of tech, I will forever enjoy being a 🎸 musician ([live](https://www.youtube.com/results?search_query=Baffle+%40+2nd+Wind+12.1.17) and in the [studio](https://soundcloud.com/jonchristie)), 🏄🏻 surfing any chance I get, supporting 🌱 sustainability,  and 🏃🏼 exercising.
 
 
 ## Some of my favorite or most recent projects
