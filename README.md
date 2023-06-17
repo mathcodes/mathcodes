@@ -8,15 +8,15 @@ I am...
 
 <br/>
 
-✍️ &nbsp;&nbsp;mastering the art of Prompt Engineering and implementation of AI into my applications with OpenAI's [ChatGPT](https://chat.openai.com/chat), and most recently comparing it with Google's [Bard](https://bard.google.com/)🤖 🌱
+🤖 &nbsp;&nbsp;all about ai, LLMs, and harnessing the power as I work on apps and plug-ins that will be released soon (hit me up if you're curious!) 🤖
 
-✍️ &nbsp;&nbsp;starting a new technical blog on Medium found [here](https://medium.com/@jcircle9)
+✍️ &nbsp;&nbsp;transitioning my technical blog on [Medium](https://medium.com/@jcircle9) over to [Hashnode](https://jonchristie.hashnode.dev/) ✍️
 
-🔭 &nbsp;&nbsp;looking for my next `job` in `frontend web development`. I'm open to related positions including entry-level opportunities!  
+🔭 &nbsp;&nbsp;looking for my role as a frontend, backend, or full-stack developer. I'm open to related positions including entry-level opportunities! Here is my [portfolio](https://www.jonchristie.net)!🔭
 
-🛠&nbsp;&nbsp;working on open-source project, [ContentForDevelopers.com](contentfordevelopers.com) as well as optimizing scalability and performance in the MANY apps I am re-deploying having previously been on Heroku. 
+🛠&nbsp;&nbsp;Working on v1.3.0 of [ContentForDevelopers.com](contentfordevelopers.com) with some major changes to includes more material that reaches a much broader range of developers.
 
-🤝&nbsp;&nbsp;currently forming a team of devs with any amount of experience as a project to collaborate, learn, and gain experience working with others in tech!
+🤝&nbsp;&nbsp; Collaborating with a growing team to create an open-source, AI-infused application to solve a problem. Wanna join?!🤝
 
 🙋🏻&nbsp;&nbsp;open to questions and thoughts about `coding`, `web development`, `networking`, `job opportunities` or whatever you have on your mind!!! 
 
