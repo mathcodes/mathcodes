@@ -8,7 +8,7 @@ I am...
 
 <br/>
 
-🤖 &nbsp;&nbsp;all about ai, LLMs, and harnessing the power as I work on apps and plug-ins that will be released soon (hit me up if you're curious!) 🤖
+🤖 &nbsp;&nbsp;all about AI, LLMs, and harnessing the power as I work on apps and plug-ins that will be released soon (hit me up if you're curious!) 🤖
 
 ✍️ &nbsp;&nbsp;transitioning my technical blog on [Medium](https://medium.com/@jcircle9) over to [Hashnode](https://jonchristie.hashnode.dev/) ✍️
 
