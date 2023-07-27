@@ -1,45 +1,48 @@
-## ![Banner](http://placehold.it/980x120)
+## ![Banner](https://raw.githubusercontent.com/mathcodes/mathcodes/main/github%20banner.png)
 ### 👋 Hello and welcome! I'm Jon Christie 
-![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/Tailwind-grey?style=for-the-badge&logo=tailwind-css)
-![MySQL](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb)
-![JSON](https://img.shields.io/badge/JSON-grey?style=for-the-badge&logo=json)
-![APIs](https://img.shields.io/badge/APIs-grey?style=for-the-badge&logo=api)
-![OAuth](https://img.shields.io/badge/OAuth-grey?style=for-the-badge&logo=oauth)
-![Jest](https://img.shields.io/badge/Jest-grey?style=for-the-badge&logo=jest)
-![React-Native](https://img.shields.io/badge/React--Native-grey?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-grey?style=for-the-badge&logo=tailwind-css)
-![MUI](https://img.shields.io/badge/MUI-grey?style=for-the-badge&logo=mui)
-![Firebase](https://img.shields.io/badge/Firebase-grey?style=for-the-badge&logo=firebase)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-grey?style=for-the-badge&logo=amazon-dynamodb)
-![Astro](https://img.shields.io/badge/Astro-grey?style=for-the-badge&logo=astro)
-![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask)
-![Django](https://img.shields.io/badge/Django-grey?style=for-the-badge&logo=django)
-![Node](https://img.shields.io/badge/Node-grey?style=for-the-badge&logo=node.js)
-![Figma](https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=figma)
-![AI](https://img.shields.io/badge/OpenAI-grey?style=for-the-badge&logo=openai)
 
+### Here are some notable skills I have acquired and built full-stack apps with as I ride the AI train up the cusp of this tech revolution:
+![JavaScript](https://img.shields.io/badge/JavaScript-%23129da7?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-%23129da7?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-%23129da7?style=for-the-badge&logo=tailwind-css)
+![MySQL](https://img.shields.io/badge/MySQL-%23129da7?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23129da7?style=for-the-badge&logo=mongodb)
+![JSON](https://img.shields.io/badge/JSON-%23129da7?style=for-the-badge&logo=json)
+![APIs](https://img.shields.io/badge/APIs-%23129da7?style=for-the-badge&logo=api)
+![OAuth](https://img.shields.io/badge/OAuth-%23129da7?style=for-the-badge&logo=oauth)
+![Jest](https://img.shields.io/badge/Jest-%23129da7?style=for-the-badge&logo=jest)
+![React-Native](https://img.shields.io/badge/React--Native-%23129da7?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23129da7?style=for-the-badge&logo=tailwind-css)
+![MUI](https://img.shields.io/badge/MUI-%23129da7?style=for-the-badge&logo=mui)
+![Firebase](https://img.shields.io/badge/Firebase-%23129da7?style=for-the-badge&logo=firebase)
+![Node](https://img.shields.io/badge/Node-%23129da7?style=for-the-badge&logo=node.js)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-%23129da7?style=for-the-badge&logo=amazon-dynamodb)
+![Astro](https://img.shields.io/badge/Astro-%23129da7?style=for-the-badge&logo=astro)
+![Python](https://img.shields.io/badge/Python-%23129da7?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/Flask-%23129da7?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-%23129da7?style=for-the-badge&logo=django)
+![AI](https://img.shields.io/badge/OpenAI-%23129da7?style=for-the-badge&logo=openai)
+![C#](https://img.shields.io/badge/C%23-%23129da7?style=for-the-badge&logo=c-sharp)
+![Unity3d](https://img.shields.io/badge/Unity3d-%23129da7?style=for-the-badge&logo=unity)
+![Figma](https://img.shields.io/badge/Figma-%23129da7?style=for-the-badge&logo=figma)
 
+### Some new, some old, bu all key factors, skills, and technologies I've made part of my workflow (when suitable for the app and team members involved):
 ![SSR](https://img.shields.io/badge/SSR-grey?style=for-the-badge&logo=ssr)
 ![WCAG](https://img.shields.io/badge/WCAG-grey?style=for-the-badge&logo=wcag)
 ![Accessibility](https://img.shields.io/badge/Accessibility-grey?style=for-the-badge&logo=accessibility)
-![UI/UX](https://img.shields.io/badge/UI/UX-grey?style=for-the-badge&logo=ui-ux)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-grey?style=for-the-badge&logo=prompt-engineering)
 ![LLMs](https://img.shields.io/badge/LLMs-grey?style=for-the-badge&logo=llms)
-![LLMs](https://img.shields.io/badge/NLP-grey?style=for-the-badge&logo=nlp)
-![LLMs](https://img.shields.io/badge/ML-grey?style=for-the-badge&logo=ML)
+![NLPs](https://img.shields.io/badge/NLP-grey?style=for-the-badge&logo=nlp)
+![ML](https://img.shields.io/badge/ML-grey?style=for-the-badge&logo=ML)
 
 
 ### I am...
 
-- 🤖 all about AI, LLMs, and harnessing their power as I work on apps and plugins that will be released soon (hit me up if you're curious!) 🤖
-- ✍️ transitioning my technical blog from [Medium](https://medium.com/@jcircle9) to [Hashnode](https://jonchristie.hashnode.dev/) ✍️
-- 🔭 seeking my role as a frontend, backend, or full-stack developer. I'm open to related positions including entry-level opportunities! Here is my [portfolio](https://www.jonchristie.net)!🔭
-- 🛠 Working on v1.3.0 of [ContentForDevelopers.com](https://www.contentfordevelopers.com) with some major changes to includes more material that reaches a much broader range of developers.
-- 🤝 Collaborating with a growing team to create an open-source, AI-infused application to solve a problem. Wanna join?!🤝
+- 🤖 currently learning a variety of exciting new tools, some new for me, some new for ALL. What a wonderful time to be in TECH!!!! 
+- ✍️ Catching up with my [Hashnode](https://jonchristie.hashnode.dev/) Blog. Check it out!
+- 🔭 seeking my role as a frontend, backend, or full-stack developer. I'm open to related positions including entry-level opportunities! Here is my [portfolio](https://www.jonchristie.net)!
+- 🛠 Working on v1.3.0 of [ContentForDevelopers.com](https://www.contentfordevelopers.com) with some major changes to include more material that reaches a much broader range of developers. [JOIN THE TEAM NOW AND COLLABORATE ... GREAT FOR FIRST TIMERS!](https://github.com/mathcodes/contentfordevelopers)
+- 🤝 Working with a team of 15+ developers for the networking, experience, value, and shoot... FUN! Interested in joining? Contact me using the link below!!!!
 - 🙋🏻 open to questions and thoughts about `coding`, `web development`, `networking`, `job opportunities` or whatever you have on your mind!!! 
 
 ## 💼 About Me
