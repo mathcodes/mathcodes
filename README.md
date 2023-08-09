@@ -2,7 +2,7 @@
  
 <h2>Jon Christie - Full Stack Developer</h2>
 
-  <h1><img src="https://raw.githubusercontent.com/mathcodes/mathcodes/main/github%20banner.png" alt="Banner"></h1>
+  <h1><img src="https://raw.githubusercontent.com/mathcodes/mathcodes/main/assets/img/githubBannerLG.png" alt="Banner"></h1>
   <h2>👋 Hello and welcome! I'm Jon Christie</h2>
 
   <h3>Here are some notable skills I have acquired and built full-stack apps with as I ride the AI train up the cusp
