@@ -1,7 +1,6 @@
 <div style="background-color:red;">
  
-<h2>Jon Christie - Full Stack Developer</h2>
-
+<h2>Jon Christie</h2>
   <h1><img src="https://raw.githubusercontent.com/mathcodes/mathcodes/main/assets/img/githubBannerLG.png" alt="Banner"></h1>
   <h2>👋 Hello and welcome! I'm Jon Christie</h2>
 
