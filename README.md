@@ -3,14 +3,12 @@
 <h2>Jon Christie</h2>
 <h3>API Developer | Programmer</h3>
   <h1><img src="https://raw.githubusercontent.com/mathcodes/mathcodes/main/assets/img/githubBannerLG.png" alt="Banner"></h1>
-
   <p>
 <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 <img src="https://img.shields.io/badge/.NET-%235C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
 <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
 <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
-
    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
    <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
    <img src="https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
@@ -32,9 +30,7 @@
    <img src="https://img.shields.io/badge/OpenAI-%2344388E?style=for-the-badge&logo=openai&logoColor=white" alt="AI">
    <img src="https://img.shields.io/badge/Unity3d-%23000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity3d">
    <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-
   </p>
-
   <h2>💼 About Me</h2>
   <p>
     I made the dive into the tech industry after being in education for 11+ years. Currently I am working for <a href="https://www.descours-cabaud.com/en/">
@@ -51,7 +47,6 @@ Descours & Cabaud</a> as an API Developer & Programmer. Previous to this, and on
       href="https://soundcloud.com/jonchristie">studio</a>), 🏄🏻 surfing any chance I get, supporting 🌱 sustainability,
     and 🏃🏼 exercising.
   </p>
-
   <h2>📮 Contact</h2>
   <a href="https://twitter.com/jCircle9">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
