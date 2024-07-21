@@ -35,42 +35,14 @@
 
   </p>
 
-  <h3>Some new, some old, but all key factors, skills, and technologies I've made part of my workflow (when suitable
-    for the app and team members involved):</h3>
-  <p>
-    <img src="https://img.shields.io/badge/SSR-grey?style=for-the-badge&logo=ssr" alt="SSR">
-    <img src="https://img.shields.io/badge/WCAG-grey?style=for-the-badge&logo=wcag" alt="WCAG">
-    <img src="https://img.shields.io/badge/Accessibility-grey?style=for-the-badge&logo=accessibility"
-      alt="Accessibility">
-    <img src="https://img.shields.io/badge/Prompt_Engineering-grey?style=for-the-badge&logo=prompt-engineering"
-      alt="Prompt Engineering">
-    <img src="https://img.shields.io/badge/LLMs-grey?style=for-the-badge&logo=llms" alt="LLMs">
-    <img src="https://img.shields.io/badge/NLP-grey?style=for-the-badge&logo=nlp" alt="NLP">
-    <img src="https://img.shields.io/badge/ML-grey?style=for-the-badge&logo=ML" alt="ML">
-  </p>
-
-  <h3>I am...</h3>
-  <ul>
-    <li>🤖 currently learning a variety of exciting new tools, some new for me, some new for ALL. What a wonderful time to
-      be in TECH!!!!</li>
-    <li>✍️ Catching up with my <a href="https://jonchristie.hashnode.dev/">Hashnode Blog</a>. Check it out!</li>
-    <li>🔭 seeking my role as a frontend, backend, or full-stack developer. I'm open to related positions including
-      entry-level opportunities! Here is my <a href="https://www.jonchristie.net">portfolio</a>!</li>
-    <li>🛠 Working on v1.3.0 of <a href="https://www.contentfordevelopers.com">ContentForDevelopers.com</a> with some
-      major changes to include more material that reaches a much broader range of developers. <a
-        href="https://github.com/mathcodes/contentfordevelopers">JOIN THE TEAM NOW AND COLLABORATE ... GREAT FOR FIRST
-        TIMERS!</a></li>
-    <li>🤝 Working with a team of 15+ developers for the networking, experience, value, and shoot... FUN! Interested in
-      joining? Contact me using the link below!!!!</li>
-    <li>🙋🏻 open to questions and thoughts about <code>coding</code>, <code>web development</code>, <code>networking</code>,
-      <code>job opportunities</code> or whatever you have on your mind!!!</li>
-  </ul>
-
   <h2>💼 About Me</h2>
   <p>
-    I made the dive into the tech industry after being in education for 11+ years. I tutor new developers on the basic
-    MERN Stack, basic Typescript, basic Python, Prompt Engineering, and Cloud Computing. As an advocate of open-source
-    projects, I contribute to many and currently maintain the one I started, <a
+    I made the dive into the tech industry after being in education for 11+ years. Currently I am working for <a href="https://www.descours-cabaud.com/en/">
+Descours & Cabaud</a> as an API Developer & Programmer. Previous to this, and on occasion, I tutor new developers on the basic
+    MERN Stack, basic Typescript, basic Python, Prompt Engineering, and Cloud Computing. 
+  </p>   
+    <p>
+    As an advocate of open-source projects, I contribute to many and currently maintain the one I started, <a
       href="https://github.com/mathcodes/contentfordevelopers">Content For Developers</a>. I love providing visual content
     to the community covering what I'm currently learning and how it makes sense to ME, which could be how YOU understand
     it as well. I'm also a team player, loving helping others whenever I am able to, and really looking forward to
@@ -79,59 +51,6 @@
       href="https://soundcloud.com/jonchristie">studio</a>), 🏄🏻 surfing any chance I get, supporting 🌱 sustainability,
     and 🏃🏼 exercising.
   </p>
-
-  <h2>🚀 Some of my favorite or most recent projects</h2>
-  <table>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Live Link</th>
-      <th>Repo Link</th>
-    </tr>
-    <tr>
-      <td><a href="https://www.contentfordevelopers.com/">Content For Developers</a></td>
-      <td>Open-Source Project (Pre-alpha) focusing on learning styles and collaboration</td>
-      <td><a href="https://www.contentfordevelopers.com/">Live</a></td>
-      <td><a href="https://github.com/mathcodes/contentfordevelopers">Repo</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/mathcodes/chatgpt-for-developers">ChatGPT For Developers</a></td>
-      <td>A basic implementation of the ChatGPT API for use as a boilerplate or learning tool.</td>
-      <td>LIVE_LINK</td>
-      <td><a href="https://github.com/mathcodes/chatgpt-for-developers">Repo</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/mathcodes/typescript-tags-todo">TS-To-Do-App</a></td>
-      <td>Filter, create, delete, edit and update their notes. Fully responsive and written with clean, easy to
-        understand code.</td>
-      <td>LIVE_LINK</td>
-      <td><a href="https://github.com/mathcodes/typescript-tags-todo">Repo</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://marketing-app-demo.vercel.app/">Marketing-App</a></td>
-      <td>Customizable, reliable, maintainable, and performant. Clean and understandable code for easy refactoring and
-        working with teams.</td>
-      <td><a href="https://marketing-app-demo.vercel.app/">Live</a></td>
-      <td><a href="https://github.com/mathcodes/marketing-app-demo">Repo</a></td>
-    </tr>
-  </table>
-
-  <h2>📚 More of My Work:</h2>
-  <ul>
-    <li><a href="https://github.com/mathcodes/PythonReplitCodeAndLinks">Replit</a></li>
-    <li><a href="https://replit.com/@fullstack11235">Codepen</a></li>
-  </ul>
-
-  <h2>🏆 Github trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=mathcodes&theme=juicyfresh&no-bg=true" alt="Github trophies">
-
-  <h2>😂 Looking for a laugh?!?!?!</h2>
-  <a href="https://readme-jokes.vercel.app">
-    <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
-  </a>
-
-  <h2>📈 Profile visits</h2>
-  <img src="https://komarev.com/ghpvc/?username=mathcodes&color=brightgreen" alt="watching_count">
 
   <h2>📮 Contact</h2>
   <a href="https://twitter.com/jCircle9">
